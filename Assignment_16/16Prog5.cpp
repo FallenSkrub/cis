@@ -1,14 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int adding(int number)
-{
-    if (number == 10){
+int adding(int number) {
+    if (number == 10) {
         return number;
-    }
-    else {
+    } else {
         cout << number + 1 << endl;
-        adding(number+1);
+        adding(number + 1);
     }
 }
 int main() {
