@@ -1,0 +1,10 @@
+Define recursion:
+    Recursion is the repeatitions of a loop of steps; where it slowly breaks down an object or a number into smaller parts until it cannot be any smaller, which is known as the base.
+What is one way recursion?
+    One way recursion is when if the base condition is true, the program stops and returns. If it isn't it calls itself again until it can reach the base condition.
+What is two way recursion?
+    Two way recursion is when the action is performed on call, and it passes into the function. Instead of repeating everything normally, it is able to do its work in a different way.
+What is linear recursion?
+    Linear recursion is when a function has to call itself once.
+What is non linear recursion?
+    Non linear recursion, is when it has to call itself two or more times which links back to one and two way recursion.
